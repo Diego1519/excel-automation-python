@@ -34,5 +34,5 @@ python automate_excel.py
 🔹 Updating stock or inventory records  
 
 ## 📝 Author  
-**Diego** – [LinkedIn Profile](#)  
+**Diego** – https://github.com/Diego1519
 ```
